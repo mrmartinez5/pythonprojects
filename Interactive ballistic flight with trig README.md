@@ -1,6 +1,3 @@
-# pythonprojects
-A compilation of my first year python projects
-
 The interactive ballistic flight using trigonometry is my first ever python script.
 
 First, the script asks for an initial angle and velocity from the user and validates that the inputs are legitimate.

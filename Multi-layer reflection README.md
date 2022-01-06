@@ -1,6 +1,3 @@
-# pythonprojects
-A compilation of my first year python projects
-
 My multi-layer reflection script is my most advanced script to date and I'm still continuing to improve.
 
 The script takes in user inputs for the number of subsurface layers, their thicknesses and seismic velocities, checks that they're valid inputs, 
